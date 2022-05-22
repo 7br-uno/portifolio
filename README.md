@@ -1,4 +1,5 @@
-# portfolio
+# My Portifolio
+## https://portifolio.7br.uno
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
